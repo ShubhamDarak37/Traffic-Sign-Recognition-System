@@ -12,4 +12,7 @@ System recogniges 43 different classes of traffic signs.
 #### Batchnormalization and dropout is used for scaling and regularization of data. 
 
 #### Some examples of traffic signs predicted by system:
-![Output image](examples/img4.png)
+![Output image](examples/0.png)    ![Output image](examples/1.png)
+
+![Output image](examples/12.png)    ![Output image](examples/23.png)
+
