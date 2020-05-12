@@ -10,3 +10,6 @@ System recogniges 43 different classes of traffic signs.
 #### System comprises of three sets of CONV -> RELU -> BN -> POOL layers and 2 fully connected layers, system gained validation accuracy of 95%
 
 #### Batchnormalization and dropout is used for scaling and regularization of data. 
+
+#### Some examples of traffic signs predicted by system:
+![Output image](examples/img4.png)
